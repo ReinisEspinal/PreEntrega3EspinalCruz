@@ -19,7 +19,8 @@ Este proyecto tiene como objetivo crear un sitio web para una constructora de ed
 
 - Clone el proyecto desde GitHub:
 
-- git clone https://github.com/usuario/proyecto-constructora.git
+- git clone
+https://github.com/ReinisEspinal/PreEntrega3EspinalCruz
 
 - Instalar las dependencias:
 
