@@ -39,7 +39,7 @@ Este proyecto tiene como objetivo crear un sitio web para una constructora de ed
 
 El sitio web estará disponible en la siguiente URL:
 
-http://localhost:3000
+https://proyecto-final-coder-house-reinis-espinal.vercel.app/index.html
 
 ## Contact
 Si tiene alguna pregunta o comentario sobre este proyecto, no dude en ponerse en contacto conmigo.
